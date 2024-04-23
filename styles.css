@@ -85,7 +85,7 @@ main {
 
 .card {
   height: 100%;
-  width: 60%;
+  max-width: 30%;
   min-width: 350px;
   padding: 1.2rem;
   background-color: #ffffff;
