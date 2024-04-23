@@ -85,7 +85,7 @@ main {
 
 .card {
   position: relative;
-  top: 164px;
+  top: 100px;
   height: 100%;
   max-width: 30%;
   min-width: 350px;
