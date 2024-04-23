@@ -84,12 +84,15 @@ main {
 }
 
 .card {
+  position: relative;
+  top: 164px;
   height: 100%;
   max-width: 30%;
   min-width: 350px;
   padding: 1.2rem;
   background-color: #ffffff;
   border-radius: 10px;
+  margin: auto;
 }
 
 .imagen img {
